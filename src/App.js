@@ -1,14 +1,14 @@
 import logo from './logo.svg';
-import './App.css';
 
-import Calc from './Components/Calc';
+
+import Slider from './com/Slider';
 
 function App() {
   
   return (
     <div className="App">
-      <Calc/>
-      
+     
+      <Slider/>
     </div>
   );
 }
