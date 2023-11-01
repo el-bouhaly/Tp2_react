@@ -4,10 +4,10 @@
  .carousel{
   overflow: hidden;
   cursor: grab;
-  width: 32%;
+  width: 35%;
   height: 50%;
   margin-left: 440px;
-  margin-top: 5px;
+  margin-top: 0px;
   
 }
 .inner{
