@@ -1,17 +1,21 @@
-.carousel{
+ body{
+  background-color:rgb(200, 216, 244);
+ }
+ .carousel{
   overflow: hidden;
   cursor: grab;
-  width: 30%;
-  height: 50%;
+  width: 31%;
+  height: 60%;
   margin-left: 440px;
+  margin-top: 20px;
   
 }
 .inner{
   display: flex;
 }
 .item{
-  min-height: 25rem;
-  min-width: 20rem;
+  min-height: 29rem;
+  min-width: 26rem;
   padding: 40px 20px;
 }
 .item img{
